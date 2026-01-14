@@ -1,0 +1,57 @@
+# Data files (too large for GitHub)
+# *.csv
+# *.json
+# *.xlsx
+# *.xls
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual environments
+venv/
+env/
+ENV/
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Model files (if you save trained models)
+*.pkl
+*.pth
+*.h5
+
+# Large images
+# *.jpg
+# *.jpeg
+# *.png
+# *.gif
+# *.bmp
